@@ -1,1 +1,1 @@
-# socks-shop
+# sock-shop
